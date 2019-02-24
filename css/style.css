@@ -174,7 +174,7 @@ footer {
 	justify-content: center;
 	flex-direction: row;
 	margin: 200px;
-	font-size: 20px;
+	font-size: 30px;
 }
 
 a {
@@ -197,7 +197,7 @@ a:hover {
 
 .nav .btn {
 	box-sizing: border-box;
-	border: 1px solid black;
+	border: 3px solid #b10f44;
 	background-color: white;
 	width: 350px;
   padding: 10px;
