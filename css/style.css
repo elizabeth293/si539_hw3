@@ -61,7 +61,7 @@ a.skip-to-content {
 }
 
 html {
-	background-image: url("../images/background.png");
+	background: white url("../images/background.png");
 	background-repeat: no-repeat;
 	font-family: 'Lato', sans-serif;
 }
